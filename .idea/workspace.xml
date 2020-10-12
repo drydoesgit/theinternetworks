@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f65ee437-6bdd-4241-aa6d-500b1b8636d5" name="Default Changelist" comment="" />
+    <list default="true" id="f65ee437-6bdd-4241-aa6d-500b1b8636d5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/httpandhttps.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/httpandhttps.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -58,7 +61,7 @@
       <option name="presentableId" value="Default" />
       <updated>1602460848247</updated>
       <workItem from="1602460849556" duration="5391000" />
-      <workItem from="1602466643153" duration="1447000" />
+      <workItem from="1602466643153" duration="1817000" />
     </task>
     <task id="LOCAL-00001" summary="Task: Bootstrap Base">
       <created>1602461056028</created>
@@ -186,7 +189,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602467990191</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Bug Fix: Content Fix">
+      <created>1602468140010</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1602468140010</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -211,16 +221,17 @@
     <MESSAGE value="Feature: About Page" />
     <MESSAGE value="Bug Fix: Broken Web Page Link" />
     <MESSAGE value="Task: Add Content" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task: Add Content" />
+    <MESSAGE value="Bug Fix: Content Fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="Bug Fix: Content Fix" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="285" y="0" key="CommitChangelistDialog2" timestamp="1602466214049">
+    <state x="285" y="0" key="CommitChangelistDialog2" timestamp="1602468138062">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="285" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1602466214049" />
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1602466221215">
+    <state x="285" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1602468138062" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1602468144486">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1602466221215" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1602468144486" />
   </component>
 </project>
