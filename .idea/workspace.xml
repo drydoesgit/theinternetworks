@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f65ee437-6bdd-4241-aa6d-500b1b8636d5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/docs/about.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/dns.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/dns.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +60,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1602460848247</updated>
-      <workItem from="1602460849556" duration="4913000" />
+      <workItem from="1602460849556" duration="5391000" />
+      <workItem from="1602466643153" duration="1116000" />
     </task>
     <task id="LOCAL-00001" summary="Task: Bootstrap Base">
       <created>1602461056028</created>
@@ -167,7 +168,21 @@
       <option name="project" value="LOCAL" />
       <updated>1602462882568</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Feature: About Page">
+      <created>1602466129662</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1602466129663</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Bug Fix: Broken Web Page Link">
+      <created>1602466216713</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1602466216713</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -189,16 +204,18 @@
     <MESSAGE value="Bug: Fix Broken Webpage Links" />
     <MESSAGE value="Feature: HTTP and HTTPS Page" />
     <MESSAGE value="Bug Fix: Broken Web Page Links" />
-    <option name="LAST_COMMIT_MESSAGE" value="Bug Fix: Broken Web Page Links" />
+    <MESSAGE value="Feature: About Page" />
+    <MESSAGE value="Bug Fix: Broken Web Page Link" />
+    <option name="LAST_COMMIT_MESSAGE" value="Bug Fix: Broken Web Page Link" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="285" y="0" key="CommitChangelistDialog2" timestamp="1602462880991">
+    <state x="285" y="0" key="CommitChangelistDialog2" timestamp="1602466214049">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="285" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1602462880991" />
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1602462887941">
+    <state x="285" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1602466214049" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1602466221215">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1602462887941" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1602466221215" />
   </component>
 </project>
