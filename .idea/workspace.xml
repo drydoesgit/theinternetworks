@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f65ee437-6bdd-4241-aa6d-500b1b8636d5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/docs/dns.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,7 +53,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1602460848247</updated>
-      <workItem from="1602460849556" duration="1274000" />
+      <workItem from="1602460849556" duration="1680000" />
     </task>
     <task id="LOCAL-00001" summary="Task: Bootstrap Base">
       <created>1602461056028</created>
@@ -133,7 +132,21 @@
       <option name="project" value="LOCAL" />
       <updated>1602461857466</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Feature: DNS">
+      <created>1602462211002</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1602462211002</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Bug: Fix Broken Webpage Links">
+      <created>1602462312714</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1602462312714</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -151,16 +164,18 @@
     <MESSAGE value="Bug: Fix Broken Internet Image" />
     <MESSAGE value="Feature: Domains and ICANN Page" />
     <MESSAGE value="Feature: IP Addresses, Packets and Routing" />
-    <option name="LAST_COMMIT_MESSAGE" value="Feature: IP Addresses, Packets and Routing" />
+    <MESSAGE value="Feature: DNS" />
+    <MESSAGE value="Bug: Fix Broken Webpage Links" />
+    <option name="LAST_COMMIT_MESSAGE" value="Bug: Fix Broken Webpage Links" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="285" y="0" key="CommitChangelistDialog2" timestamp="1602461855854">
+    <state x="285" y="0" key="CommitChangelistDialog2" timestamp="1602462311233">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="285" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1602461855854" />
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1602461869840">
+    <state x="285" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1602462311233" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1602462317886">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1602461869840" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1602462317886" />
   </component>
 </project>
