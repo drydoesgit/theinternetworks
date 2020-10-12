@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f65ee437-6bdd-4241-aa6d-500b1b8636d5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/ipaddressespacketsandrouting.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +53,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1602460848247</updated>
-      <workItem from="1602460849556" duration="672000" />
+      <workItem from="1602460849556" duration="972000" />
     </task>
     <task id="LOCAL-00001" summary="Task: Bootstrap Base">
       <created>1602461056028</created>
@@ -111,7 +111,21 @@
       <option name="project" value="LOCAL" />
       <updated>1602461465976</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Bug: Fix Broken Internet Image">
+      <created>1602461595785</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1602461595785</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Feature: Domains and ICANN Page">
+      <created>1602461734808</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1602461734808</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -126,7 +140,9 @@
     <MESSAGE value="Task: Add Internet Image to Directory" />
     <MESSAGE value="Task: Add Web Image to Directory" />
     <MESSAGE value="Task: Add Web Development to Directory" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task: Add Web Development to Directory" />
+    <MESSAGE value="Bug: Fix Broken Internet Image" />
+    <MESSAGE value="Feature: Domains and ICANN Page" />
+    <option name="LAST_COMMIT_MESSAGE" value="Feature: Domains and ICANN Page" />
   </component>
   <component name="WindowStateProjectService">
     <state x="285" y="0" key="CommitChangelistDialog2" timestamp="1602461594296">
