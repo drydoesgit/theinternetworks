@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f65ee437-6bdd-4241-aa6d-500b1b8636d5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/docs/images/css.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +60,7 @@
       <option name="presentableId" value="Default" />
       <updated>1602460848247</updated>
       <workItem from="1602460849556" duration="5391000" />
-      <workItem from="1602466643153" duration="2812000" />
+      <workItem from="1602466643153" duration="3126000" />
     </task>
     <task id="LOCAL-00001" summary="Task: Bootstrap Base">
       <created>1602461056028</created>
@@ -216,7 +216,35 @@
       <option name="project" value="LOCAL" />
       <updated>1602469409542</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Add: CSS Image">
+      <created>1602469481436</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1602469481436</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Bug Fix: Broken Image Link">
+      <created>1602469552201</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1602469552201</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Bug Fix: Webpage Link">
+      <created>1602469661431</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1602469661431</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Bug Fix: Webpage Link">
+      <created>1602469710752</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1602469710752</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -244,7 +272,10 @@
     <MESSAGE value="Task: Add Content" />
     <MESSAGE value="Feature: W3C, HTML, and CSS" />
     <MESSAGE value="Add: HTML Image" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add: HTML Image" />
+    <MESSAGE value="Add: CSS Image" />
+    <MESSAGE value="Bug Fix: Broken Image Link" />
+    <MESSAGE value="Bug Fix: Webpage Link" />
+    <option name="LAST_COMMIT_MESSAGE" value="Bug Fix: Webpage Link" />
   </component>
   <component name="WindowStateProjectService">
     <state x="285" y="0" key="CommitChangelistDialog2" timestamp="1602469659871">
