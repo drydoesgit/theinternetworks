@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f65ee437-6bdd-4241-aa6d-500b1b8636d5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +35,12 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/docs/images" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -53,7 +59,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1602460848247</updated>
-      <workItem from="1602460849556" duration="1680000" />
+      <workItem from="1602460849556" duration="1998000" />
     </task>
     <task id="LOCAL-00001" summary="Task: Bootstrap Base">
       <created>1602461056028</created>
@@ -146,7 +152,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602462312714</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Feature: HTTP and HTTPS Page">
+      <created>1602462827713</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1602462827714</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -166,7 +179,8 @@
     <MESSAGE value="Feature: IP Addresses, Packets and Routing" />
     <MESSAGE value="Feature: DNS" />
     <MESSAGE value="Bug: Fix Broken Webpage Links" />
-    <option name="LAST_COMMIT_MESSAGE" value="Bug: Fix Broken Webpage Links" />
+    <MESSAGE value="Feature: HTTP and HTTPS Page" />
+    <option name="LAST_COMMIT_MESSAGE" value="Feature: HTTP and HTTPS Page" />
   </component>
   <component name="WindowStateProjectService">
     <state x="285" y="0" key="CommitChangelistDialog2" timestamp="1602462311233">
